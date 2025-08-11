@@ -23,18 +23,17 @@ Simply **use this template**, install dependencies, and start coding with modern
 ---
 
 ## 📂 Folder Structure
-
+```
 ├── src
-│   ├── index.js       # Main entry point
-│   ├── modules/       # Your modular JS files
-│   ├── styles/        # CSS files
-│   └── template.html  # Base HTML template
-├── dist               # Auto-generated output
+│ ├── index.js # Main entry point
+│ ├── modules/ # Your modular JS files
+│ ├── styles/ # CSS files
+│ └── template.html # Base HTML template
+├── dist # Auto-generated output
 ├── package.json
 ├── webpack.config.js
 └── README.md
-
-
+```
 ---
 
 ## 🚀 Getting Started
