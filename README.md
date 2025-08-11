@@ -3,8 +3,8 @@
 A lightweight, modular JavaScript project starter powered by **Webpack** and **Babel**, designed as a **template repository** for quick setup.  
 It comes preconfigured with:
 
-- **pubsub-js** for event-driven communication
-- **date-fns** for modern date handling
+- **pubsub-js** for event-driven communication  
+- **date-fns** for modern date handling  
 - A clean, maintainable structure to build scalable applications without unnecessary overhead
 
 Simply **use this template**, install dependencies, and start coding with modern JavaScript that works across all environments.
@@ -12,7 +12,6 @@ Simply **use this template**, install dependencies, and start coding with modern
 ---
 
 ## 📦 Features
-
 - **Modern JavaScript** — Babel ensures ES6+ syntax runs everywhere
 - **Modular architecture** — Write clean, maintainable code with clear separation of concerns
 - **Event-based communication** — Built-in pubsub-js for decoupled modules
@@ -23,7 +22,6 @@ Simply **use this template**, install dependencies, and start coding with modern
 ---
 
 ## 📂 Folder Structure
-
 ├── src
 │ ├── index.js # Main entry point
 │ ├── modules/ # Your modular JS files
@@ -39,23 +37,24 @@ Simply **use this template**, install dependencies, and start coding with modern
 ## 🚀 Getting Started
 
 ### 1️⃣ Use this repository as a template
-
-- Click the **"Use this template"** button at the top of the repository
+- Click the **"Use this template"** button at the top of the repository  
 - Create your new repository from it
 
 ### 2️⃣ Install dependencies
-
-````bash
+```bash
 npm install
 
+```
 ### 3️⃣ Start the development server
 ```bash
 npm start
 
+```
 ### 4️⃣ Build for production
 ```bash
 npm run build
 
+```
 ## 🛠 Usage
 - This template is meant to get you started quickly:
 
@@ -71,4 +70,5 @@ npm run build
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests if you have improvements or suggestions.
-````
+
+
