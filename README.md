@@ -1,5 +1,7 @@
 # 🚀 Webpack + Babel Modular JavaScript Starter
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A lightweight, modular JavaScript project starter powered by **Webpack** and **Babel**, designed as a **template repository** for quick setup.  
 It comes preconfigured with:
 
@@ -25,13 +27,14 @@ Simply **use this template**, install dependencies, and start coding with modern
 ## 📂 Folder Structure
 ```
 ├── src
-│ ├── index.js # Main entry point
-│ ├── modules/ # Your modular JS files
-│ ├── styles/ # CSS files
-│ └── template.html # Base HTML template
+│   ├── index.js # Main entry point
+│   ├── modules/ # Your modular JS files
+│   ├── styles/ # CSS files
+│   └── template.html # Base HTML template
 ├── dist # Auto-generated output
 ├── package.json
 ├── webpack.config.js
+├── LICENSE
 └── README.md
 ```
 ---
@@ -47,21 +50,18 @@ Simply **use this template**, install dependencies, and start coding with modern
 
 ```bash
 npm install
-
 ```
 
 ### 3️⃣ Start the development server
 
 ```bash
 npm start
-
 ```
 
 ### 4️⃣ Build for production
 
 ```bash
 npm run build
-
 ```
 
 ## 🛠 Usage
@@ -77,6 +77,12 @@ npm run build
 - Add or modify CSS in src/styles
 
 - Update src/template.html for your HTML structure
+
+## 📜 License
+
+Copyright (c) 2025 TipDevs
+
+This template is licensed under the MIT License — see the LICENSE file for details: https://opensource.org/licenses/MIT
 
 ## 🤝 Contributing
 
